@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>  <!-- Compliant -->
+<html> 
 	<head>
 	  <title>DevOps Lab Title</title>
 	  <meta content="text/html; charset=utf-8" />
