@@ -14,6 +14,7 @@
 <h2>Making first changes in GitHub to update Java app and trigger webhooks in jenkins!!</h2>
 <h2>Just pulled from Git after fixing wrong folder issues. To sync server instance, first pull then update and push. This is fun so far!!</h2>
 <h2> Lab. #06-1 - Testing SonarQube Integration from terminal-webhooks-jenkins build!!</h2>
-<h2> Lab. #06-2 - Building jenkins and fixing code errors in Sonarqube after jenkins build!!</h2><F9>
+<h2> Lab. #06-2 - Building jenkins and fixing code errors in Sonarqube after jenkins build!!</h2>
+<h2> Lab. #09 - Integration of Slack with Jenkins!</h2>   
 </body>
 </html>
