@@ -16,5 +16,6 @@
 <h2> Lab. #06-1 - Testing SonarQube Integration from terminal-webhooks-jenkins build!!</h2>
 <h2> Lab. #06-2 - Building jenkins and fixing code errors in Sonarqube after jenkins build!!</h2>
 <h2> Lab. #09 - Integration of Slack with Jenkins!</h2>   
+<h2> Lab. #11 - Scripted Pipeline!</h2>
 </body>
 </html>
