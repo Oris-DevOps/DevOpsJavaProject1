@@ -49,7 +49,7 @@ pipeline {
         stage ('Slack Notification') {
             steps {
                 echo "Generating Slack Notification"
-                slackSend channel: 'jenkinschannel,general', message: "Job is successful, here is the info - Job '${env.JOB_NAME} [${env.BUILD_NUMBER}]' (${env.BUILD_URL})"
+                slackSend channel: 'jenkinschannel,general', message: "Job is successful sent to Jenkins & General channel, here is the info - Job '${env.JOB_NAME} [${env.BUILD_NUMBER}]' (${env.BUILD_URL})"
             }
         }
         
