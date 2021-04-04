@@ -42,7 +42,7 @@ pipeline {
         stage ('Development Deployment') {
             steps {
                 echo "deploying to DEV Env "
-                deploy adapters: [tomcat9(credentialsId: '31020aeb-5e40-4c0e-b6cb-1214a4fee4e4', path: '', url: 'http://18.217.16.141:8080/')], contextPath: null, war: '**/*.war'
+                deploy adapters: [tomcat9(credentialsId: '677902cd-0959-49dd-9d69-49e08690c910', path: '', url: 'http://18.217.16.141:8080/')], contextPath: null, war: '**/*.war'
             }
         }
         
